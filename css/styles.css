@@ -6,19 +6,190 @@ body {
   background: #ffffff;
 }
 
+/* Button */
+
 .button-pointer {
   cursor: pointer;
+}
+
+/* Design logo */
+
+.logo {
+  font-family: "Raleway";
+  font-size: 18px;
+  line-height: 21px;
+  color: #2e2f42;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .webstudio-web-color {
   color: #4d5ae5;
   font-family: "Raleway";
+}
+
+.logo-footer {
+  color: #f4f4fd;
+}
+
+/* Navigations */
+
+.nav-link {
+  font-size: 16px;
+  line-height: 24px;
+  color: #2e2f42;
+  letter-spacing: 0.02em;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
+}
+
+/* Address */
+
+.email-telephone {
+  font-size: 16px;
+  line-height: 24px;
+  color: #434455;
+  letter-spacing: 0.02em;
   font-style: normal;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 21px;
-  display: flex;
-  align-items: center;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
+}
+
+.email-telephone:hover,
+.email-telephone:focus {
+  color: #404bbf;
+}
+
+/* Hero */
+
+.hero {
+  background: #2e2f42;
+}
+
+.hero-title {
+  font-size: 56px;
+  line-height: 60px;
+  color: #ffffff;
+}
+
+.hero-button {
+  background: #4d5ae5;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+
+.hero-button:hover {
+  background: #404bbf;
+}
+
+.hero-button-text {
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  letter-spacing: 0.04em;
+}
+
+/* Feature */
+
+.feature-title-three {
+  font-size: 20px;
+  line-height: 24px;
+  color: #2e2f42;
+}
+
+.feature-text {
+  font-size: 16px;
+  line-height: 24px;
+  color: #434455;
+}
+
+/* Whar are we doing */
+
+.wawd-title {
+  font-size: 36px;
+  line-height: 40px;
+  color: #2e2f42;
+}
+
+/* Our Team */
+
+.team {
+  background: #f4f4fd;
+}
+
+.team-title {
+  font-size: 36px;
+  line-height: 40px;
+  color: #2e2f42;
+}
+
+.team-name {
+  font-size: 20px;
+  line-height: 24px;
+  color: #2e2f42;
+}
+
+.team-job {
+  font-size: 16px;
+  line-height: 24px;
+  color: #434455;
+}
+
+/* Footer */
+
+.footer {
+  background: #2e2f42;
+}
+
+.footer-text {
+  font-size: 16px;
+  line-height: 24px;
+  color: #f4f4fd;
+}
+
+/* Header */
+
+.header {
+  background: #ffffff;
+}
+
+/* Portfolio */
+
+/* Button Filtration */
+
+.button-filter {
+  background: #f4f4fd;
+}
+
+.button-filter:hover,
+.button-filter:focus {
+  background: #404bbf;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+}
+
+.text-filter {
+  color: #4d5ae5;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.text-filter:hover,
+.text-filter:focus {
+  color: #ffffff;
+}
+
+/* Portfolio Text */
+
+.portfolio-title {
+  font-size: 20px;
+  line-height: 24px;
+  color: #2e2f42;
+}
+
+.portfolio-text {
+  font-size: 16px;
+  line-height: 24px;
+  color: #434455;
 }
