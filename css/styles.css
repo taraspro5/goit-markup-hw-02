@@ -1,9 +1,13 @@
+:root {
+}
+
 body {
   position: relative;
   width: 1440px;
   height: 2592px;
   font-family: "Roboto", sans-serif;
   background: #ffffff;
+  color: #434455;
 }
 
 /* Button */
