@@ -50,7 +50,7 @@ body {
 
 .hero-title {
   font-size: 56px;
-  line-height: 1.17;
+  line-height: 1.07;
   color: #ffffff;
   text-align: center;
   letter-spacing: 0.02em;
@@ -103,7 +103,7 @@ body {
 /* Our Team */
 
 .team {
-  background-color: #f4f4f4;
+  background-color: #f4f4fd;
 }
 
 .team-title {
@@ -235,6 +235,7 @@ body {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
+  color: #434455;
 }
 
 .hidden {
